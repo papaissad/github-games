@@ -1,4 +1,4 @@
-## Welcome to GitHub Games (feature A)
+## Welcome to GitHub Games (feature B)
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
